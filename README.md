@@ -76,7 +76,7 @@ Belt customBelt = customBeltSupplier.get();
 
 ### Extending the Project
 
-To extend the project, consider:
+To extend the project, we can consider:
 
 - Adding new types of nodes (e.g., routers, diverters).
 - Implementing more sophisticated encoding strategies.
